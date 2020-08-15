@@ -1,3 +1,5 @@
+A more up-to-date-version is now developed [under the scicloj organization](https://github.com/scicloj/using-gorilla-notes).
+
 # using-gorilla-notes
 
 Usage example for [gorilla-notes](https://github.com/daslu/gorilla-notes).
